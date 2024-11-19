@@ -1113,8 +1113,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/parker/proprietary/vendor/firmware/goodix-gtx5-38-04-foles.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-gtx5-38-04-foles.bin \
     vendor/motorola/parker/proprietary/vendor/firmware/goodix-gtx5-40-04-parker.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-gtx5-40-04-parker.bin \
     vendor/motorola/parker/proprietary/vendor/firmware/goodix_cfg_group2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group2.bin \
+    vendor/motorola/parker/proprietary/recovery/root/vendor/firmware/goodix_cfg_group2.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/goodix_cfg_group2.bin \
     vendor/motorola/parker/proprietary/vendor/firmware/goodix_cfg_group2_parker.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group2_parker.bin \
+    vendor/motorola/parker/proprietary/recovery/root/vendor/firmware/goodix_cfg_group2_parker.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/goodix_cfg_group2_parker.bin \
     vendor/motorola/parker/proprietary/vendor/firmware/goodix_cfg_group2_qtpro.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group2_qtpro.bin \
+    vendor/motorola/parker/proprietary/recovery/root/vendor/firmware/goodix_cfg_group2_qtpro.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/goodix_cfg_group2_qtpro.bin \
     vendor/motorola/parker/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/motorola/parker/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
     vendor/motorola/parker/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
